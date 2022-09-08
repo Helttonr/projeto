@@ -1,0 +1,20 @@
+
+ #te  {
+    /* Apenas para centralizar o form na página */
+    margin: 0 auto;
+    width: 300px;
+    /* Para ver as bordas do formulário */
+    padding: 1em;
+    border: 1px solid #cfc2c2;
+    border-radius: 1em;
+  
+        margin-top: 2em;
+  
+ }
+
+ #button {
+    /* Para posicionar os botões para a mesma posição dos campos de texto */
+    padding: 8px; /* mesmo tamanho que os elementos do tipo label */
+}
+
+
